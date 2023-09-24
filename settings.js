@@ -19,26 +19,26 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['50946701791']
-global.premium = ['50946701791']
-global.ownernomer = '50946701791'
-global.ownername = 'Le Souverain'
-global.botname = 'Le Souverain Bot'
+global.owner = ['12103219065']
+global.premium = ['12103219065']
+global.ownernomer = '12103219065'
+global.ownername = 'Le souverain'
+global.botname = 'le souverain bot'
 global.footer = '©NexusNwInc.'
 global.ig = 'https://github.com/nexusNw'
 global.region = 'India, South India, Kerala'
 global.sc = 'https://github.com/nexusNw/Gojo-Satoru'
 global.myweb = 'https://youtube.com/channel/UCqoUjPvDdb0kjXNYdvPPpHQ'
 global.packname = 'Gojo-Satoru'
-global.author = 'Le Souverain'
-global.sessionName = 'session'
+global.author = '🐦Star Boy Nexus'
+global.sessionName = 'VTk0RnVZY2M='
 global.prefa = ['','!','.','🐦','🐤','🗿']
-global.sp = '!'
+global.sp = '⭔'
 global.mess = {
     success: 'Done ✓',
     admin: 'This Feature Is Only For Admin!',
     botAdmin: 'Bot Must Be Admin First!',
-    owner: 'This Feature Is Only For Pirate King!',
+    owner: 'This Feature Is Only For Owner!',
     group: 'Feature Used Only For Groups!',
     private: 'Features Used Only For Private Chat!',
     bot: 'This Feature Is Only For Bot',
